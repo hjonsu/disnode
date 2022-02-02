@@ -28,7 +28,7 @@ and hosted with
 
 <b>[Disnode](http://disnode.hirzalla.ca/)</b> is a full-stack application that allows members to create or join existing servers, connecting with others that share similar interests.
 
-The idea of Disnode came from my love for online communities and game servers. I spend a lot of my time gaming with my friends, and we use Discord to do that. With my newly obtained knowledge from studying hard during my Bootcamp, I decided it would be super cool to make my own version of Discord. This is where the idea of Disnode came from, Discord but on Node (HAH! get it? sorry I had to).
+The idea of Disnode came from my love for online communities and game servers. I spend a lot of my time gaming with my friends, and we use Discord to do that. With my newly obtained knowledge from studying hard during my Bootcamp, I decided it would be super cool to make my own version of Discord. This is where the idea of Disnode came from, Discord but on Node (HAH! get it? sorry I had to). -([**@adamhirzalla**](https://github.com/adamhirzalla))
 
 ### 🤝 **Collaborators**:
 
